@@ -1,0 +1,29 @@
+#quiz,#finish,#Correct,#inCorrect
+{
+    display: none;
+    
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* //background-image: linear-gradient(to left, #aa2ff2, #9e45f7, #9354fb, #8861fd, #7e6cfe); */
+background-image: url(../images/Wave-100s-1366px\ \(2\).svg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: right;
+height: 100vh;
+}
+.text-spec
+{
+    color: #653383
+}
+.bg-spec
+{
+   background-color:  #653383
+}
+button{
+    cursor: pointer;
+}
+.alert
+{
+    display: none;
+}
